@@ -9,3 +9,4 @@ If you are familiar with live-coding using things like overtone
 or [sonic-pi](https://github.com/samaaron/sonic-pi),
 then it's exactly like that, except with a lot less features.
 
+![capture1](doc/cap1.png "")
