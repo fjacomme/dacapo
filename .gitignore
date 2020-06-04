@@ -4,3 +4,6 @@ deps/
 server/
 imgui.ini
 temp.dcp
+etc/samples
+etc/synthdefs
+etc/wavetables

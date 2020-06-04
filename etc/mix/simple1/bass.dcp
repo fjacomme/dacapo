@@ -1,0 +1,26 @@
+2-:
+seq 2
+  on 1
+    'tb303' ( note:33 amp:0.2 )
+    'tb303' ( note:45 amp:0.2 )
+  on 2
+    'tb303' ( note:33 amp:0.3 )
+    'tb303' ( note:45 amp:0.3 )
+  on 3
+    'tb303' ( note:33 amp:0.2 )
+    'tb303' ( note:45 amp:0.2 )
+  on 4
+    'tb303' ( note:33 amp:0.3 )
+    'tb303' ( note:45 amp:0.3 )
+  on 5
+    'tb303' ( note:33 amp:0.2 )
+    'tb303' ( note:45 amp:0.2 )
+  on 6
+    'tb303' ( note:33 amp:0.3 )
+    'tb303' ( note:45 amp:0.3 )
+  on 7
+    'tb303' ( note:33 amp:0.2 )
+    'tb303' ( note:45 amp:0.2 )
+  on 8
+    'tb303' ( note:38 amp:0.2 attack:0.2)
+    'tb303' ( note:50 amp:0.2 attack:0.2)

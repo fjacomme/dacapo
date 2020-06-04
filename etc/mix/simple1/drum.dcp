@@ -1,0 +1,22 @@
+ ~ déjà la batterie
+ ~ two measures sequence
+seq 2
+  on 1 'drum_bass_hard'
+  on 2 'drum_cymbal_closed'
+  on 2 4/4 'drum_cymbal_closed'
+  on 3 'drum_cymbal_soft'
+  on 3 1/2 'drum_bass_soft'
+  on 3 2/2 'drum_bass_soft'
+  on 4 'drum_cymbal_closed'
+  on 4 2/2 'drum_cymbal_closed'
+  on 5 'drum_bass_soft'
+  on 5 'drum_cymbal_soft'
+  on 5 3/4 'drum_cymbal_closed'
+  on 5 4/4 'drum_bass_soft'
+  on 6 'drum_cymbal_closed'
+  on 6 4/4 'drum_cymbal_closed'
+  on 7 'drum_bass_hard'
+  on 7 2/2 'drum_cymbal_closed'
+  on 8 1/4 'drum_cymbal_pedal'
+  on 8 4/4 'drum_cymbal_pedal'
+

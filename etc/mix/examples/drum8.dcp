@@ -1,0 +1,8 @@
+ ~ déjà
+
+  tempo 120
+  on 1
+    'drum_bass_soft'
+    'ambi_piano'
+  on 2 'drum_bass_hard'
+

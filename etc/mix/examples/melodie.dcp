@@ -1,0 +1,57 @@
+ ~ Kalinka
+1: on 2 'piano' ( note:57 )
+
+2-9: seq 8
+  on 1 'piano' ( note:55 )
+  on 2 1/2 'piano' ( note:52 )
+  on 2 2/2 'piano' ( note:53 )
+  on 3 'piano' ( note:55 )
+  on 4 1/2 'piano' ( note:52 )
+  on 4 2/2 'piano' ( note:53 )
+  on 5 'piano' ( note:55 )
+  on 6 1/2 'piano' ( note:53 )
+  on 6 2/2 'piano' ( note:52 )
+  on 7 'piano' ( note:50 )
+  on 8 1/2 'piano' ( note:57 )
+  on 8 2/2 'piano' ( note:57 )
+  on 9 'piano' ( note:55 )
+  on 9 4/4 'piano' ( note:53 )
+  on 10 1/2 'piano' ( note:52 )
+  on 10 2/2 'piano' ( note:53 )
+  on 11 'piano' ( note:55 )
+  on 12 1/2 'piano' ( note:52 )
+  on 12 2/2 'piano' ( note:53 )
+  on 13 'piano' ( note:55 )
+  on 14 1/2 'piano' ( note:53 )
+  on 14 2/2 'piano' ( note:52 )
+  on 15 'piano' ( note:50 )
+  on 16 1/2 'piano' ( note:57 )
+  on 16 2/2 'piano' ( note:57 )
+
+
+2-4:
+  on 1 1/2 'piano' ( note:33 )
+  on 1 2/2 'piano' ( note:45 )
+  on 2 1/2 'piano' ( note:33 )
+  on 2 2/2 'piano' ( note:45 )
+
+5:
+  on 1 1/2 'piano' ( note:38 )
+  on 1 2/2 'piano' ( note:50 )
+  on 2 1/2 'piano' ( note:38 )
+  on 2 2/2 'piano' ( note:50 )
+
+6-8:
+  on 1 1/2 'piano' ( note:33 )
+  on 1 2/2 'piano' ( note:45 )
+  on 2 1/2 'piano' ( note:33 )
+  on 2 2/2 'piano' ( note:45 )
+
+9:
+  on 1 1/2 'piano' ( note:36 )
+  on 1 2/2 'piano' ( note:48 )
+  on 2 1/2 'piano' ( note:36 )
+  on 2 2/2 'piano' ( note:48 )
+
+10: measure 2
+

@@ -1,0 +1,8 @@
+~ déjà la batterie
+
+on 1 'drum_bass_hard'
+on 2 'drum_cymbal_closed'
+on 2 4/4 'drum_cymbal_closed'
+on 3 1/2 'drum_bass_soft'
+on 3 2/2 'drum_bass_soft'
+on 4 'drum_cymbal_closed'
