@@ -1,0 +1,6 @@
+.vscode/
+build/
+deps/
+server/
+imgui.ini
+temp.dcp
